@@ -1,0 +1,16 @@
+{
+  "name": "abhianv",
+  "version": "1.0.0",
+  "description": "This is my website",
+  "main": "index.js",
+  "scripts": {
+        "start":"node index.js",
+        "test": "jest"
+  },
+  "keywords": [
+    "website",
+    "web"
+  ],
+  "author": "Sunny",
+  "license": "ISC"
+}
